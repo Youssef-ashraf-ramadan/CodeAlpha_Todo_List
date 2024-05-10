@@ -2,7 +2,7 @@
 	"name": "todo_react_app",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://Youssef-ashraf-ramadan.github.io/CodeAlpha_Todo_List",
+	"homepage": "",
 	"dependencies": {
 		"@mantine/core": "^4.2.12",
 		"@mantine/hooks": "^4.2.12",
