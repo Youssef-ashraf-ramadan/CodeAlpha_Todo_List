@@ -5,7 +5,7 @@
 
 ## This is a super simple Todo App built using React.js and styled using Mantine UI.
 
-You can view a live demo of the project here: codeAlpha-todoList.vercel.app
+You can view a live demo of the project here: (https://codealpha-todolist.vercel.app/)
 
 ## 😃 Features:
 
